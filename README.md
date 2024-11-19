@@ -1,8 +1,8 @@
-👋  
+## 👋  
 
-Hi, I’m @tdunca,  
+### Hi, I’m @tdunca  
 
-🌱 Currently studying Frond End at KYH.
+#### 🌱 Currently studying Frond End at KYH.
 
 <!---
 tdunca/tdunca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
