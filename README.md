@@ -1,5 +1,5 @@
-👋 
-Hi, I’m @tdunca,
+👋 < br / >
+Hi, I’m @tdunca, < br / >
 🌱 Currently studying Frond End at KYH.
 
 <!---
