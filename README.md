@@ -1,7 +1,7 @@
 
 <u><h1 align="center"> Hi 👋, I’m @tdunca </h1></u>   
 <h3 align="center">Frond End Developer from Uppsala, Sweden.</h3>
-<h3 align="center">🌱 Currently studying SD-DevSecOps at KYH.</h3>
+<h3 align="center">🌱 Currently studying System Development - DevSecOps at KYH.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
